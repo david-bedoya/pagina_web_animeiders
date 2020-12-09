@@ -1,0 +1,10 @@
+<script> function alerta() {
+    
+               alert("Hola, Bienvenidos a ANIMEIDERS, esperamos que nuestro contenido sea de su agrado!!");
+   }</script>
+     <input type="button" onclick="alerta()" value="Presiona aqui!">
+
+Este codigo me dio un dolor de cabeza casi no me funsiona,
+se aconseja ponerlo al final antes de el </body>final,
+pero ami no mefunciono y lo puse despues del <body> inicial 
+y si me funciono. 
